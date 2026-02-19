@@ -11,3 +11,8 @@ a:hover {
     color: darkgreen;
     background-color: yellow;
 }
+
+img {
+    max-width: 350px;
+    max-height: 350px;
+}
